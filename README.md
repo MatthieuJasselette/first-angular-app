@@ -4,7 +4,7 @@
 
 * * *
 
-It's the tour of heroes angular tutorial.
+It's the [tour of heroes angular tutorial](https://angular.io/tutorial).
 
 ## About
 
