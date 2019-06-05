@@ -1,7 +1,7 @@
 // src/app/heroes/heroes.component.ts
 import { Component, OnInit } from '@angular/core';
 import { Hero } from '../hero';
-import { HEROES } from '../heroes-list';
+// import { HEROES } from '../heroes-list';
 import { HeroService } from '../hero.service';
 
 @Component({ //decorator function, specifies angular metadata for the component
